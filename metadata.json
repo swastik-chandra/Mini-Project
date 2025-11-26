@@ -1,0 +1,7 @@
+{
+  "name": "Local Event Finder",
+  "description": "A modern, location-based web application to discover, share, and register for local events like college fests, workshops, concerts, and more. Features include event filtering, map views, and smart recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
